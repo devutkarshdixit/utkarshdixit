@@ -9,6 +9,7 @@ The replace() method replaces the current document with a new one.
 
 ## The difference between assign() and replace():
 ---
-replace() removes the current URL from the document history.
+replace() removes the current URL from the document history. |
+The assign() method loads a new document.
 
 With replace() it is not possible to use "back" to navigate back to the original document.
