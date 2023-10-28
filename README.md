@@ -11,6 +11,7 @@ The replace() method replaces the current document with a new one.
 ---
 
 replace() | assign()
+--- | ---
 
 **replace() removes the current URL from the document history.** | The assign() method loads a new document.
 
